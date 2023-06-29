@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\React-HTTP"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\React-Hooks"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Redux-demo"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\React-Redux-demo"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\React-temperature-app"
+		}
+	]
+}
